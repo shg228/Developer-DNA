@@ -5,7 +5,7 @@ using namespace std;
 int main(int argc, char **argv)
 {
     float sine[] = {-0.93, -0.60, -0.33, -0.13, 0.00, 0.00, -0.13, -0.33, -0.60, -0.93};
-    int cols = 31;
+    int cols = 30;
     char parts[]={'+', '-'};
 
     //solution
